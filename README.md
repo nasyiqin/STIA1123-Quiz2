@@ -16,14 +16,11 @@ method introduceYourself() never called in main method of Lab1Stage1. none.
 
 #### 5.Comment out the method introduceYourself in Dog. What happens now when you run the program?
 
-```java 
-Dog d = new Dog();
-d.introduceYourself();
+```java
+Meow I'm a cat. My name is kurre.
+Morr. I am an animal
+Meow. I am a cat. My name is Bamse
 ```
-
-##### output
-
-<img src="https://user-images.githubusercontent.com/55252513/86570287-44e9c680-bfa2-11ea-9d59-0c52ed58742d.png" height="150" width="350">
 
 #### 6. Where is the name stored for the instances of Cat and Dog? (In what / which classes did you put the instance variable that refers to the name of the animal? Both Cat and Dog, or just in Animal?)
 stored in array allAnimals[3] in Animal class.
