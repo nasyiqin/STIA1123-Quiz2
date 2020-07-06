@@ -1,5 +1,5 @@
 #### 1. What will be the output when running the above code?
-no output
+<img src="https://user-images.githubusercontent.com/55252513/86572186-2f29d080-bfa5-11ea-8ef0-fbd4dd250a60.png" height="150" width="420">
 
 #### 2. What is meant by polymorphism ?
 polymorphism has two type: overriding & overloading. 
