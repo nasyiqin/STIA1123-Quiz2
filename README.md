@@ -29,8 +29,10 @@ d.introduceYourself();
 stored in array allAnimals[3] in Animal class.
 
 #### 7. How does the code in the test program work?
-
-
+program create an array name AllAnimal with size of 3.
+animals name saved in each array.
+program execute starting i = 0 and display introduceYourself() of allAnimals[0].
+program loop until i = 3 and exit loop.
 
 #### 8. How does an array work?
 to store datas of name for cats and dog.
